@@ -2,7 +2,7 @@
 - 👀 Interested in Game Design
 - 🌱 Currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email me via wulezheng00@gmail.com
 
 <!---
 Wu-Lezheng/Wu-Lezheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
